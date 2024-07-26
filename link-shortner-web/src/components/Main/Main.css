@@ -1,0 +1,22 @@
+.main-content{
+    position: absolute;
+    left: 50%;
+    top:10%;
+    transform: translate(-50%);
+    
+}
+.sub-txt,.heading{
+
+    font-family: "Poppins", sans-serif !important;
+}
+
+.heading{
+ font-size: 2.5rem !important ;
+ font-weight: 700 !important;
+ color: #216C17;
+ 
+}
+
+.sub-txt{
+    color:#000;
+}
